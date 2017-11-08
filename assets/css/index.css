@@ -1,0 +1,18 @@
+.top{
+	background-image: url(../images/worldwideweb.jpg);
+	background-size: cover;
+	position: relative;
+	min-height: 100vh;
+}
+.top-overlay{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0,0,0,0.7);
+}
+body{
+	background-color: #eee;
+}
+.top .card{
+	padding: 10px;
+}
